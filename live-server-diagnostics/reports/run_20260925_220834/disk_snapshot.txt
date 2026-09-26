@@ -1,0 +1,13 @@
+DISK SNAPSHOT
+=============
+Target path: /c/Users/tooem/Documents/TheoWAF/fall_2026_bootcamp/live-server-diagnostics
+
+Filesystem usage:
+Filesystem      Size  Used Avail Use% Mounted on
+C:              238G   98G  141G  41% /c
+
+Directory size:
+35K	/c/Users/tooem/Documents/TheoWAF/fall_2026_bootcamp/live-server-diagnostics
+
+File count:
+2
